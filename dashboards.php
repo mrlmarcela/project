@@ -79,10 +79,10 @@
     </div>
 
     <div class="container">
-        <div class="row mb-4">
-            <div class="row me-3 col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3">
-                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" style="height:132px">
-                    <div class="row mt-3">
+        <div class="row">
+            <div class="me-4 p-0 col-xxl-3 col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
+                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="col-12 mt-3">
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
                             <p class="fs-5">Projetos</p>
                         </div>
@@ -91,8 +91,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="card rounded-3 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" style="height:132px">
-                    <div class="row mt-3">
+                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="col-12 mt-3">
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
                             <p class="fs-5">Tarefas</p>
                         </div>
@@ -102,10 +102,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8 rounded-3 card">
+            <div class="rounded-3 card mb-4 p-0 overflow-auto col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="row mt-3">
                     <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                        <p class="fs-5">Tarefas x Status</p>
+                        <p class="fs-5">Tarefas X Status</p>
                     </div>
                     <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center mt-2">
                         <div style="height:180px">
@@ -119,39 +119,39 @@
         </div>
     </div>
     <div class="container">
-        <div class="row mb-4">
-            <div class="row me-3 col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3">
-                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" style="height:132px">
-                    <div class="row">
+        <div class="row">
+            <div class="me-4 p-0 col-xxl-3 col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
+                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="col-12 mt-3">
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                            <div class="row text-center">
-                                <span class="fs-5 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 pt-2">Esforço estimado</span>
-                                <span class="fs-6 text-secondary col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">Em horas</span>
+                            <div class="col-12 text-center">
+                                <p class="fs-5 m-0 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">Esforço estimado</p>
+                                <p class="fs-6 mb-1 text-secondary col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">Em horas</p>
                             </div>
                         </div>
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                            <span class="fs-1 fw-bold">657h</span>
+                            <p class="fs-1 mb-1 fw-bold">657h</p>
                         </div>
                     </div>
                 </div>
-                <div class="card rounded-3 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" style="height:132px">
-                    <div class="row">
+                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="col-12 mt-3">
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                            <div class="row text-center">
-                                <span class="fs-5 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 pt-2">Esforço realizado</span>
-                                <span class="fs-6 text-secondary col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">Em horas</span>
+                            <div class="col-12 text-center">
+                                <p class="fs-5 m-0 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">Esforço realizado</p>
+                                <p class="fs-6 mb-1 text-secondary col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">Em horas</p>
                             </div>
                         </div>
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                            <p class="fs-1 fw-bold">254h</p>
+                            <p class="fs-1 mb-1 fw-bold">254h</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8 rounded-3 card">
+            <div class="rounded-3 card mb-4 p-0 overflow-auto col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="row mt-3">
                     <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                        <p class="fs-5">Projetos x Clientes</p>
+                        <p class="fs-5">Projetos X Clientes</p>
                     </div>
                     <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center mt-2">
                         <div style="height:180px">
@@ -165,22 +165,22 @@
         </div>
     </div>
     <div class="container">
-        <div class="row mb-4">
-            <div class="row me-3 col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3">
-                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" style="height:132px">
-                    <div class="row mt-3">
+        <div class="row">
+            <div class="me-4 p-0 col-xxl-3 col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
+                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="col-12 mt-3">
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
                             <p class="fs-5">Colaboradores</p>
                         </div>
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                            <p class="fs-1 fw-bold">10</p>
+                            <p class="fs-1 fw-bold">12</p>
                         </div>
                     </div>
                 </div>
-                <div class="card rounded-3 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12" style="height:132px">
-                    <div class="row mt-3">
+                <div class="card rounded-3 mb-4 col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="col-12 mt-3">
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                            <p class="fs-5 text-center">Projetos atrasados</p>
+                            <p class="fs-5">Projetos atrasados</p>
                         </div>
                         <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
                             <p class="fs-1 fw-bold">3</p>
@@ -188,13 +188,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8 rounded-3 card">
+            <div class="rounded-3 card mb-4 p-0 overflow-auto col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="row mt-3">
                     <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center">
-                        <p class="fs-5">Custos estimados x Custos realizados</p>
+                        <p class="fs-5">Custos estimados X Custos realizados</p>
                     </div>
                     <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex justify-content-center mt-2">
-                        <div style="width:50%">
+                        <div style="height:180px">
                             <?php
                             include './charts/custos.php';
                             ?>
